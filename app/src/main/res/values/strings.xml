@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LatihanMvvmWithApiOrg</string>
+    <string name="find_here">find here...</string>
+    <string name="search">Search</string>
+</resources>
